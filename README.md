@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧
+	NextLevelWeek 1.0 🚀
 </h4>
 
 
@@ -31,8 +31,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML][rn]
-- [CSS][rn]
+- [HTML]
+- [CSS]
 - [Node.js][nodejs]
 - [Javascript]
 
