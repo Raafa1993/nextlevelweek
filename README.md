@@ -7,9 +7,9 @@
 </h4>
 
 
-## 💻 Sobre o projeto
+## 💻 - Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ - Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
@@ -27,7 +27,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 
-## 🛠 Tecnologias
+## 🛠 - Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -37,13 +37,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Javascript]
 
 
-## 🚀 Como executar o projeto
+## 🚀 - Como executar o projeto
 
 Podemos considerar este projeto como sendo divido em três partes:
 1. Back End (pasta server) 
 2. Front End (public)
 
-💡O Front End precisam que o Back End esteja sendo executado para funcionar.
+💡 - O Front End precisam que o Back End esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
@@ -51,7 +51,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 [Node.js][nodejs]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 - Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
@@ -73,6 +73,6 @@ $ npm start
 ```
 
 
-## 📝 Licença
+## 📝 - Licença
 
 Este projeto esta sobe a licença MIT.
